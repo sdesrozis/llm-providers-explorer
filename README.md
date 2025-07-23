@@ -15,7 +15,7 @@ Each script lets you quickly test model access and behavior using your API keys.
 Install dependencies:
 
 ```bash
-uv venv && uv pip install .
+pip install -r requirements.txt
 ```
 
 Create a `.env` file with your `API` keys:

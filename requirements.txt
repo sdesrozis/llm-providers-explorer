@@ -1,0 +1,6 @@
+google-genai>=1.26.0
+groq>=0.30.0
+mistralai>=1.9.2
+openai>=1.97.1
+python-dotenv>=1.1.1
+together>=1.5.21
